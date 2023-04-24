@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Karna-Balaji
 - 👀 I’m interested in learning about AI and programming
+- I am also interested in learning about Cybersecurity and Ehtical hacking 
 - 🌱 I’m currently learning Computer Science and Engineering 
 - 
 
